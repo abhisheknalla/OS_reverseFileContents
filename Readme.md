@@ -12,4 +12,5 @@ The Assignment consists of 3 files and 1 directory:
 
 4) The symlink file called link.txt is created in parent directory. It contains the solution text.
 
-
+Running it: gcc OS1.c
+            ./a.out inp.txt
